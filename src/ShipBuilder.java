@@ -5,5 +5,9 @@ public class ShipBuilder{
         this.origin = origin;
     }
 
+    public void shipCoords(){
+        
+    }
+
     
 }
