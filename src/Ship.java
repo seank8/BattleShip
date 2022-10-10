@@ -4,6 +4,7 @@ public class Ship {
     private ShipType ship;
     private int hitCount;
     private ArrayList<Coordinate> coordinates;
+    private ShipBuilder builder;
     
 
     public Ship(ShipType ship, int hitCount, ArrayList<Coordinate> coordinates){
